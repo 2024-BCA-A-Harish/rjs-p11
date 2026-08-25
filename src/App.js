@@ -1,4 +1,3 @@
-import "./App.css";
 import React, { useRef, useState } from "react";
 
 function App() {
